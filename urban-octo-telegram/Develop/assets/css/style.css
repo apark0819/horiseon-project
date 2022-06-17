@@ -20,9 +20,7 @@ body {
     font-size: 48px;
 }
 
-.header h1 .seo {
-    color: #d9dcd6;
-}
+/*deleted seo tag*/
 
 .header div {
     padding-top: 15px;
@@ -167,6 +165,7 @@ p {
 
 .search-engine-optimization img {
     max-height: 200px;
+
 }
 
 .online-reputation-management img {
